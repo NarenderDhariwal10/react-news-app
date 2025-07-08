@@ -21,4 +21,30 @@ A modern and responsive News App built with **React JS**, **Bootstrap**, and **N
 - React Router
 
 ## 📦 Folder Structure
+react-news-app/
+├── public/
+│   └── index.html
+├── src/
+│   ├── Components/
+│   │   ├── NavBar.js
+│   │   └── News.js
+|   |   └── NewsItem.js
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
+├── .env                  # contains API key 
+├── .gitignore
+├── package.json
+├── README.md
+├── LICENSE
+└── docs/
+    └── screenshot.png    
 
+## 👨‍💻 Author
+
+**Narender Dhariwal**
+
+- 💼 Aspiring Full Stack Developer (Node.js + React)
+- 🎓 Final Year Engineering Student
+- 🔗 [LinkedIn](https://linkedin.com/in/narender-dhariwal=053a162259)
+- 🧑‍💻 [GitHub](https://github.com/NarenderDhariwal10)
