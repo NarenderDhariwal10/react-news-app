@@ -2,7 +2,7 @@
 
 A modern and responsive News App built with **React JS**, **Bootstrap**, and **NewsAPI.org**. Browse top headlines by categories like Business, Technology, Sports, Health, and more.
 
-![Screenshot](docs/screenshot.png)
+![Screenshot](Docs/screenshot.png)
 
 ## 🚀 Features
 
